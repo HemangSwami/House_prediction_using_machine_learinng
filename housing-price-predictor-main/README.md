@@ -14,8 +14,6 @@ Based on my learnings and course of Machine Learning, where I studied different 
 
 I also created a pipeline to handle things such as preprocessing and then calculating the output for the test data.
 
-The score I got was 14997.99107, which is kind of amazing considering this is my first Machine Learning Model. I got a rank of 1719 for the same.
-
 ## Steps
 
 ### Dropping columns with high cardinality and dtype object.
